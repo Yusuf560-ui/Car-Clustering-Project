@@ -25,7 +25,7 @@ This project experimented with K-Means and Hierarchical clustering algorithm to 
 - Scatterplots for multivariate analysis of numerical columns
 - Feature Engineering: Dropped the "name" columns and one-hot encode
 - Experimented with both KMeans and Hierarchical clustering 
-- Evaluation on both algorithm with Silhoeutte score showed 4 as optimal cluster value
+- Evaluation on both algorithm with Silhoeutte score showed 4 as optimal number of clusters
 
 ---
 
@@ -35,6 +35,7 @@ Decided to use the hierarchical clustering algorithm since it's more suitable fo
 - Cluster 1: Fuel-efficient, low power
 - Cluster 2: High efficiency, low power
 - Cluster 3: Performance-oriented, low efficiency
+
 
 
 
