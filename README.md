@@ -1,4 +1,4 @@
-# Car Groupings Project
+# Car Clustering Project
 An unsupervised learning project that groups cars into distinct clusters using available features like mpg, horsepower, acceleration and many others, with KMeans and Hierarchical clustering algorithms
 
 ## Project Overview
@@ -35,4 +35,5 @@ Decided to use the hierarchical clustering algorithm since it's the best for sma
 - Cluster 1: Fuel-efficient, low power
 - Cluster 2: High efficiency, low power
 - Cluster 3: Performance-oriented, low efficiency
+
 
