@@ -30,7 +30,9 @@ This project experimented with KMeans and Hierarchical clustering algorithm to g
 ---
 
 ## Result and Conclusion
+Decided to use the hierarchical clustering algorithm since it's the best for smaller dataset
 - Cluster 0: Balanced vehicles
 - Cluster 1: Fuel-efficient, low power
 - Cluster 2: High efficiency, low power
 - Cluster 3: Performance-oriented, low efficiency
+
