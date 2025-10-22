@@ -1,7 +1,5 @@
 # Car Groupings Project
-An unsupervised learning project that groups cars into clusters using available features in the dataset
-
---- 
+An unsupervised learning project that groups cars into distinct clusters using available features like mpg, horsepower, acceleration and many others, with KMeans and Hierarchical clustering algorithms
 
 ## Project Overview
 This project experimented with KMeans and Hierarchical clustering algorithm to group cars into groups using various features from the dataset like mpg, cylinder, horsepower and many others. The aim of the project is to discover underlying patterns and characteristics of cars from the dataset inorder to group them into distinct cluster
