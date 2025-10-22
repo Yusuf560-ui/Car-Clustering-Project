@@ -1,8 +1,8 @@
 # Car Clustering Project
-An unsupervised learning project that groups cars into distinct clusters using available features like mpg, horsepower, acceleration and many others, with KMeans and Hierarchical clustering algorithms
+An unsupervised learning project that groups cars into distinct clusters using available features like mpg, horsepower, acceleration and many others, with K-Means and Hierarchical clustering algorithms
 
 ## Project Overview
-This project experimented with KMeans and Hierarchical clustering algorithm to group cars into groups using various features from the dataset like mpg, cylinder, horsepower and many others. The aim of the project is to discover underlying patterns and characteristics of cars from the dataset inorder to group them into distinct cluster
+This project experimented with K-Means and Hierarchical clustering algorithm to group cars into groups using various features from the dataset like mpg, cylinder, horsepower and many others. The aim of the project is to discover underlying patterns and characteristics of cars from the dataset inorder to group them into distinct cluster
 
 ---
 
@@ -30,11 +30,12 @@ This project experimented with KMeans and Hierarchical clustering algorithm to g
 ---
 
 ## Result and Conclusion
-Decided to use the hierarchical clustering algorithm since it's more suitable for smaller dataset
+Decided to use the hierarchical clustering algorithm since it's more suitable for smaller datasets
 - Cluster 0: Balanced vehicles
 - Cluster 1: Fuel-efficient, low power
 - Cluster 2: High efficiency, low power
 - Cluster 3: Performance-oriented, low efficiency
+
 
 
 
